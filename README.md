@@ -1,6 +1,6 @@
-Plasmid identification using MOB-suite.
+# Plasmid identification using MOB-suite
 
-Before running MOB-suite:
+## Before running MOB-suite:
 Create a new environment and install MOB-suite
 mamba create -n se_plasmids \
              python=3.11 \
